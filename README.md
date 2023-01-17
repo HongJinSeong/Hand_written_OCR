@@ -1,6 +1,6 @@
 # Hand_written_OCR
 
-OCR 첫 참가
+OCR 대회 첫 참가 (2023 교원그룹 AI 챌린지 <예선>)
 
 최종 accuracy 77.7% 마무리 ( 모델 RCNN - naver git 참조하여 약간 수정 진행한 것) https://github.com/clovaai/deep-text-recognition-benchmark
 
